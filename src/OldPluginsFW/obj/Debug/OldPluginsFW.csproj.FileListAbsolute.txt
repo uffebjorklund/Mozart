@@ -1,0 +1,8 @@
+C:\Users\Uffe\Documents\GitHub\Mozart\src\OldPluginsFW\bin\Debug\OldPluginsFW.exe.config
+C:\Users\Uffe\Documents\GitHub\Mozart\src\OldPluginsFW\bin\Debug\OldPluginsFW.exe
+C:\Users\Uffe\Documents\GitHub\Mozart\src\OldPluginsFW\bin\Debug\OldPluginsFW.pdb
+C:\Users\Uffe\Documents\GitHub\Mozart\src\OldPluginsFW\bin\Debug\XSockets.Plugin.Framework.dll
+C:\Users\Uffe\Documents\GitHub\Mozart\src\OldPluginsFW\bin\Debug\XSockets.Plugin.Framework.xml
+C:\Users\Uffe\Documents\GitHub\Mozart\src\OldPluginsFW\obj\Debug\OldPluginsFW.csprojResolveAssemblyReference.cache
+C:\Users\Uffe\Documents\GitHub\Mozart\src\OldPluginsFW\obj\Debug\OldPluginsFW.exe
+C:\Users\Uffe\Documents\GitHub\Mozart\src\OldPluginsFW\obj\Debug\OldPluginsFW.pdb

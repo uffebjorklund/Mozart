@@ -1,0 +1,5 @@
+C:\Users\Uffe\Documents\GitHub\Mozart\src\Mozart\bin\Release\Mozart.dll
+C:\Users\Uffe\Documents\GitHub\Mozart\src\Mozart\bin\Release\Mozart.pdb
+C:\Users\Uffe\Documents\GitHub\Mozart\src\Mozart\obj\Release\Mozart.dll
+C:\Users\Uffe\Documents\GitHub\Mozart\src\Mozart\obj\Release\Mozart.pdb
+C:\Users\Uffe\Documents\GitHub\Mozart\src\Mozart\obj\Release\Mozart.csprojResolveAssemblyReference.cache

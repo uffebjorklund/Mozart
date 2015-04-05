@@ -1,0 +1,9 @@
+C:\Users\Uffe\Documents\GitHub\Mozart\src\Mozart.Tests\bin\Release\Mozart.Tests.dll
+C:\Users\Uffe\Documents\GitHub\Mozart\src\Mozart.Tests\bin\Release\Mozart.Tests.pdb
+C:\Users\Uffe\Documents\GitHub\Mozart\src\Mozart.Tests\bin\Release\Mozart.dll
+C:\Users\Uffe\Documents\GitHub\Mozart\src\Mozart.Tests\bin\Release\xunit.dll
+C:\Users\Uffe\Documents\GitHub\Mozart\src\Mozart.Tests\bin\Release\Mozart.pdb
+C:\Users\Uffe\Documents\GitHub\Mozart\src\Mozart.Tests\bin\Release\xunit.xml
+C:\Users\Uffe\Documents\GitHub\Mozart\src\Mozart.Tests\obj\Release\Mozart.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Uffe\Documents\GitHub\Mozart\src\Mozart.Tests\obj\Release\Mozart.Tests.dll
+C:\Users\Uffe\Documents\GitHub\Mozart\src\Mozart.Tests\obj\Release\Mozart.Tests.pdb
